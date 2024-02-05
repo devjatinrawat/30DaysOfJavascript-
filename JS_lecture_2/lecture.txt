@@ -1,0 +1,4 @@
+
+
+- console.log , clg
+- perform basic on console

@@ -1,0 +1,12 @@
+
+
+- when we dont intiate any value , js put undefined into it.
+- experiment with it
+- let a =null
+- variable can be reassigned
+- using constant we cant reassigned  the value of that variable .
+- 'const' declarations must be initialized. we`ll used more const only  very less. very less well use let. when we know that let var value would change.
+- let & Const is blocked Scoped . so if the value is declared not used that error is shwon.
+-not defined will be shown if var is not created
+ - First imp difference : 43:06 - Difference Between let and var in JavaScript - First
+ - 47:34 - Difference Between let and var in JavaScript - Second

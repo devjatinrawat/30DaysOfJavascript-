@@ -1,0 +1,19 @@
+
+
+- It Happens in TWO STEP , In Two PHASEES
+- First Phase Is Called Memory Creation Phase , it just scans and searches 
+var let and const and make Memory and give that name ex firstName
+- it will keep undefined , typeofundefined is undefined
+- means memory creation is taking place via javascript engine.
+- it is reserving the memory
+- it will skip console.log phase
+ - Second Phase is Code Execution Phase , here all the code comes into play
+ - now all the variables get the values 
+ -  all the undefined values are replaced . also the type will change.
+ - All Actual Values Get Placed.
+ - sources tag there is a debugger for you.
+ -  One Extra Thing with let is that is released in 2015 it comes in extra validation until you didnt give any value 
+ what the use is of it.
+ - debugger
+ -defer
+ - start with this 34:51

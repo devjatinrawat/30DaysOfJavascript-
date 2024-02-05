@@ -1,0 +1,8 @@
+static websites 
+- server 
+the  data is cauclated sent to server and server caculcates it 
+and then send the data.
+
+
+
+dynamic website
